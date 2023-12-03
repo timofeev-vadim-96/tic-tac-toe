@@ -1,5 +1,8 @@
 package org.example.foo;
 
+/**
+ * Реализация точки на двумерной плоскости координат
+ */
 public class Dot {
     private int x;
     private int y;
